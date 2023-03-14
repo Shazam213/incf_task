@@ -1,0 +1,5 @@
+﻿GA_loop.thisRepN,GA_loop.thisTrialN,GA_loop.thisN,GA_loop.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,spatial_freq.routineEndVal,aperture.started,aperture.stopped,position.routineEndVal,placeholder.started,participant,session,stimulus size,start spatial freq,step spatial freq,end spatial freq,stimulus duration,date,expName,psychopyVersion,frameRate,
+0,0,0,0,0,0,0,0,0.8,14.722803299999214,15.73931900000025,"(16, 0)",15.73931900000025,155746,001,8.5,0.8,1,25.6,1,2023-03-14_21h32.05.570,iva,2022.2.5,143.89317371522287,
+0,0,0,0,1,0,1,0,,16.73227079999924,17.729721800002153,"(-16, 0)",17.729721800002153,155746,001,8.5,0.8,1,25.6,1,2023-03-14_21h32.05.570,iva,2022.2.5,143.89317371522287,
+0,0,0,0,2,0,2,0,,18.739045599999372,19.742528200004017,"(-16, 0)",19.742528200004017,155746,001,8.5,0.8,1,25.6,1,2023-03-14_21h32.05.570,iva,2022.2.5,143.89317371522287,
+,,,,,,,,,20.753121600006125,,,,,,,,,,,,,,,
